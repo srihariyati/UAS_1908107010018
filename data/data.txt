@@ -1,0 +1,7 @@
+Kodetiket,nama,umur,seats.
+TIXTD60510,Anna,18,D6.
+TIXTD50510,Elsa,19,D5.
+TIXTF50511,Wendy,21,F5.
+TIXTF60511,Peter,22,F6.
+TIXTE40509,Hans,21,E4.
+TIXTD40512,Woody,21,D4.
